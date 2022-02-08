@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bármi GIT", "bármi GIT\bármi GIT.csproj", "{46022A47-4137-4058-9268-888B15EC0C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46022A47-4137-4058-9268-888B15EC0C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46022A47-4137-4058-9268-888B15EC0C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46022A47-4137-4058-9268-888B15EC0C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46022A47-4137-4058-9268-888B15EC0C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA3B8888-D2AD-4C79-9950-C9004B626712}
+	EndGlobalSection
+EndGlobal
