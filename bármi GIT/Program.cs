@@ -11,6 +11,7 @@ namespace bármi_GIT
         static void Main(string[] args)
         {
             Console.WriteLine("helló");
+            int A = int.Parse(Console.ReadLine());
 
         }
     }
