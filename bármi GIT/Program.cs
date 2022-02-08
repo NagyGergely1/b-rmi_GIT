@@ -10,6 +10,7 @@ namespace bármi_GIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("helló");
 
         }
     }
